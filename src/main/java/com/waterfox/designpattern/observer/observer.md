@@ -4,7 +4,7 @@ observateurs de façon à ce que toute modification du sujet soit
 notifiée aux observateurs et qu’ils puissent mettre à jour leur état.
 
 **Exemple** : Dans le cadre d'un éditeur de texte sécurisé. À chaque 
-changement, celui-ci averti par mail les utilisateurs du document. De plus 
+changement, celui-ci averti par mail les utilisateur.ices du document. De plus 
 chaque changement est enregistré dans un fichier de log. 
 
 **Solution** : La solution propre au patron observateur repose sur la création 

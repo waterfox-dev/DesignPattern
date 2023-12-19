@@ -1,11 +1,11 @@
 # Le patron État 
 **Objectif** : Gérer les comportements dépendant du cycle de vie
 
-**Exemple** : Vous êtes rédacteur en chef dans un journal dont le 
+**Exemple** : Vous êtes rédacteur.ice en chef dans un journal dont le 
 cycle de vie est toujours le même : 
-- Un journaliste écrit un article qu'il soumet à la relecture 
+- Un.e journaliste écrit un article qu'il soumet à la relecture 
 - Si la relecture est convaincante l'article est embelli 
-- Sinon le journaliste le récrit 
+- Sinon le.a journaliste le récrit 
 - Lorsqu'un article est embelli, il paraît
 - Un journaliste écrit un nouvel article, etc.
 
